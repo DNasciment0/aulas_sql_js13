@@ -27,4 +27,4 @@ SELECT * FROM tb_produtos WHERE preco < 500.00;
 
 UPDATE tb_produtos SET preco = 95.00, quantidade_estoque = 180 WHERE id = 8;
 
-SELECT*FROM tb_estudantes
+SELECT*FROM tb_produtos
