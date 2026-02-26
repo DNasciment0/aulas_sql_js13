@@ -23,3 +23,5 @@ SELECT * FROM tb_colaboradores WHERE salario > 2000.00;
 SELECT * FROM tb_colaboradores WHERE salario < 2000.00;
 
 UPDATE tb_colaboradores SET salario = 1500.00, cargo = 'Auxiliar Administrativo' WHERE id = 4;
+
+SELECT*FROM tb_estudantes
